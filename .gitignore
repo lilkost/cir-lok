@@ -1,0 +1,8 @@
+node_modules
+fonts
+libs
+scss
+prepros.config
+gulpfile.js
+start.txt
+.DS_Store
